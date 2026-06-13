@@ -141,7 +141,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 Total de prompts | **9871** |
 | ⭐ Destacado | **6** |
-| 🔄 Última actualización | **viernes, 12 de junio de 2026, 14:32:09 UTC** |
+| 🔄 Última actualización | **sábado, 13 de junio de 2026, 2:10:53 UTC** |
 
 </div>
 
@@ -5561,6 +5561,6 @@ Licenciado bajo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-gpt-image-2/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-gpt-image-2)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-06-12T14:32:09.468Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-06-13T02:10:53.504Z</sub>
 
 </div>
